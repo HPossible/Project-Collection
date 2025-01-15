@@ -1,3 +1,6 @@
 [submodule "Group Projects/Bruin Movies/BruinMovies"]
 	path = Group Projects/Bruin Movies/BruinMovies
 	url = https://github.com/HPossible/BruinMovies.git
+[submodule "Personal Project/Marble Madness"]
+	path = Personal Project/Marble Madness
+	url = https://github.com/HPossible/Marble-Madness.git
